@@ -11,4 +11,4 @@ main_data.rds is the main dataset for most regressions and some of the figures.
 Figures 1-3 are produced using ivs_sub.dta
 
 interstate.rds is equivalent to main_data.rds, except that it exclusively uses UCDP interstate conflicts as the basis for constructing the main independent variables (e.g., y10moving_comb500, y10moving, etc.)
-It is used to produce Table V in the appendix
+It is used to produce Table V in the appendix.
